@@ -1,0 +1,3 @@
+#qunit-userAgent, #qunit-testrunner-toolbar, .test-diff, .test-source, .qunit-source, .counts {
+  display: none;
+}
